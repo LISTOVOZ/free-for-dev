@@ -1923,6 +1923,12 @@ HTML Themes and UI Kits to create your applications faster!
   * [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
 
 [![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
+<<<<<<< HEAD
 Make frag4
 Make frag5
 Make frag6
+=======
+Make frag1
+Make frag2
+Make frag3
+>>>>>>> bra1
